@@ -5,6 +5,8 @@ Consider you have an Excel file and you need to split it based on a column's val
 
 Here I share a Python code that you can adapt to your needs. In my case, I saved the excel file as a .csv file. The reason whas to read it more easily, no matter the IDE you choose, with no additional packages (pandas will suffice).
 
-That's it!
+I wouldn't done it as faster without one of Derrick Sherrill tutorials. Check his YouTube Channel here: https://www.youtube.com/channel/UCJHs6RO1CSM85e8jIMmCySw/featured
+
+That's it. Enjoy!
 
 
